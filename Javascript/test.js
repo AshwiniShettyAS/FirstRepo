@@ -1,2 +1,2 @@
-let x=16+4+"Volve";
+let x = 16 + 4 + "Volve";
 console.log(x);
